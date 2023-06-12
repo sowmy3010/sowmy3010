@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sowmyashri V 👋</h1>
+<h1 align="center">Hey! I'm Sowmyashri V 😉</h1>
 
 <h3 align="center" style="font-family: Arial, sans-serif; text-align: center;">Data wizard in the making <img align="right" src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" max-width="200" height="200"></h3>
 
