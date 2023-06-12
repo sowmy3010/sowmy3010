@@ -17,7 +17,7 @@
 
 <p></br></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact" alt="mvharsh" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mvharsh&show_icons=true&locale=en" alt="mvharsh" max-width="150" height="140" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&" alt="mvharsh" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowmy3010" alt="mvharsh" /></a> </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact" alt="sowmy3010" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mvharsh&show_icons=true&locale=en" alt="sowmy3010" max-width="150" height="140" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmy3010&" alt="mvharsh" /></p>
