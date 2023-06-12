@@ -6,7 +6,7 @@
 
 - 🔭  Diving deeper into programming's endless possibilities..
 
-- 🌱 I’m currently learning Integrated Data Science Course
+- 🌱 I’m currently learning *Integrated Data Science Course*
 
 - 📫 How to reach me: sowmy3010@gmail.com
 
