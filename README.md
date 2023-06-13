@@ -14,13 +14,13 @@
 
 - 🔭 Diving deeper into programming's endless possibilities..
 
-- 🌱 I’m currently learning *Integrated Data Science Course*
+- <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Python" width="20px">  I’m currently learning *Integrated Data Science Course*
 
 - 📫 How to reach me: sowmy3010@gmail.com
 
-- 😄 Check out my projects on  [Github](https://github.com/sowmy3010)
+- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/263a.gif" alt="Python" width="20px"> Check out my projects on  [Github](https://github.com/sowmy3010)
 
-- ⚡ Discover my professional journey and experiences on [Linkedin](https://www.linkedin.com/in/sowmyashri-velmurugan-b5b75a258/)
+- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg0ZGRlNzgxYTMwMzIyNDQzZmVlMWY5ZTZmYmRhMmU5MzY1YTFiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/mBvlxe68T9eP1Umuk7/giphy.gif" alt="Python" width="20px">Discover my professional journey and experiences on [Linkedin](https://www.linkedin.com/in/sowmyashri-velmurugan-b5b75a258/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
