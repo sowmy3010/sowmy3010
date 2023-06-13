@@ -18,6 +18,6 @@
 <p></br></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sowmy3010" alt="sowmy3010" /></a> </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact" alt="sowmy3010" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sowmy3010&show_icons=true&locale=en&layout=compact" alt="sowmy3010" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=sowmy3010&show_icons=true&locale=en" alt="sowmy3010" max-width="150" height="140" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sowmy3010&" alt="sowmy3010" /></p>
