@@ -6,9 +6,6 @@
   <img src="https://media.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="30"/>
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmy3010&label=Profile%20views&color=EB5454&style=flat" alt="sowmy3010" /> </p>
-
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :woman_technologist: About Me :
@@ -43,7 +40,7 @@
   </ul>
 </div>
 
-### 📈 Stats :
+### 📊 Stats :
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="margin-right: 10px;">
