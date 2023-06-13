@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" width="100"/>
 </div>
+
 <h1 align="center">
   Hey! I'm Sowmyashri V
   <img src="https://media.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="30"/>
