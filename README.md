@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" width="100"/>
-</div>
+![image](https://github.com/sowmy3010/sowmy3010/assets/135642206/59058cc9-c38a-4071-843f-c4f15c0b558a)
+
 
 <h1 align="center">
   Hey! I'm Sowmyashri V
@@ -10,6 +9,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :woman_technologist: About Me :
+
+ <img align="right" src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" max-width="200" height="200">
 
 
 - 🔭 Diving deeper into programming's endless possibilities..
@@ -24,22 +25,34 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### :hammer_and_wrench: Languages and Tools :
+### 📝 Languages :
 <div>
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="100px">
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="100px">
-  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="100px">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="100px">
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="100px">
   <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL" width="100px">
 </div>
 
-### 💪 Skills :
+### 🛠️ Tools :
 <div>
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" width="100px">
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="100px">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="100px">
+  <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" width="100px">
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="100px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="100px">
+</div>
+
+
+<div>
+  <h3>💪 Skills:</h3>
   <ul>
-    <li> Data Analysis and Statistical Modeling </li>
-    <li> Problem-Solving and Programming </li>
+    <li><img src="https://img.icons8.com/nolan/64/data-configuration.png" alt="Data Analysis" width="30px"> Data Analysis and Statistical Modeling</li>
+    <li><img src="https://img.icons8.com/nolan/64/programming.png" alt="Programming" width="30px"> Problem-Solving and Programming</li>
   </ul>
 </div>
+
 
 ### 📊 Stats :
 
