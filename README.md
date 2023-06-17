@@ -13,7 +13,7 @@
  <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" max-width="200" height="200">
 
 
-- 🔭<img src="https://cdn.dribbble.com/users/2186444/screenshots/16487330/media/27f2999c22286726d25bcbbc7b122b3a.gif" alt="Plant" width="20px"> Diving deeper into programming's endless possibilities..
+- 🔭 Diving deeper into programming's endless possibilities..
 
 - <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Plant" width="20px">  I’m currently learning *Integrated Data Science Course*
 
