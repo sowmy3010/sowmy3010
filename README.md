@@ -1,8 +1,6 @@
 
-
 <h1 align="center" style="font-family: 'Times New Roman', serif; font-size: 24px;">
-  Hey! I'm Sowmyashri V
-  <img src="https://media.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="30"/>
+  <p>Hey! I'm <strong>Sowmyashri V</strong><img src="https://media.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="30"/></p>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmy3010&label=Profile%20views&color=EB5454&style=flat" alt="sowmy3010" /> </p>
