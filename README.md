@@ -1,4 +1,4 @@
-![image](https://github.com/sowmy3010/sowmy3010/assets/135642206/59058cc9-c38a-4071-843f-c4f15c0b558a)
+
 
 <h1 align="center" style="font-family: 'Times New Roman', serif; font-size: 24px;">
   Hey! I'm Sowmyashri V
