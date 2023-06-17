@@ -13,15 +13,15 @@
  <img align="right" src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" max-width="200" height="200">
 
 
-- 🔭 Diving deeper into programming's endless possibilities..
+- 🔭<img src="https://cdn.dribbble.com/users/2186444/screenshots/16487330/media/27f2999c22286726d25bcbbc7b122b3a.gif" alt="Plant" width="20px"> Diving deeper into programming's endless possibilities..
 
-- <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Python" width="20px">  I’m currently learning *Integrated Data Science Course*
+- <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Plant" width="20px">  I’m currently learning *Integrated Data Science Course*
 
-- 📫 How to reach me: sowmy3010@gmail.com
+- <img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" alt="Mail" width="20px">  How to reach me: sowmy3010@gmail.com
 
-- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/263a.gif" alt="Python" width="20px"> Check out my projects on  [Github](https://github.com/sowmy3010)
+- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/263a.gif" alt="Emoji" width="20px"> Check out my projects on  [Github](https://github.com/sowmy3010)
 
-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg0ZGRlNzgxYTMwMzIyNDQzZmVlMWY5ZTZmYmRhMmU5MzY1YTFiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/mBvlxe68T9eP1Umuk7/giphy.gif" alt="Python" width="20px">Discover my professional journey and experiences on [Linkedin](https://www.linkedin.com/in/sowmyashri-velmurugan-b5b75a258/)
+- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg0ZGRlNzgxYTMwMzIyNDQzZmVlMWY5ZTZmYmRhMmU5MzY1YTFiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/mBvlxe68T9eP1Umuk7/giphy.gif" alt="Spark" width="20px">Discover my professional journey and experiences on [Linkedin](https://www.linkedin.com/in/sowmyashri-velmurugan-b5b75a258/)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
