@@ -10,7 +10,7 @@
 
 ### :woman_technologist: About Me :
 
- <img align="right" src="https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif" max-width="200" height="200">
+ <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" max-width="200" height="200">
 
 
 - 🔭<img src="https://cdn.dribbble.com/users/2186444/screenshots/16487330/media/27f2999c22286726d25bcbbc7b122b3a.gif" alt="Plant" width="20px"> Diving deeper into programming's endless possibilities..
