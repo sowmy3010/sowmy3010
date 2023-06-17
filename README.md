@@ -1,10 +1,10 @@
 ![image](https://github.com/sowmy3010/sowmy3010/assets/135642206/59058cc9-c38a-4071-843f-c4f15c0b558a)
 
-
-<h1 align="center">
+<h1 align="center" style="font-family: 'Times New Roman', serif; font-size: 24px;">
   Hey! I'm Sowmyashri V
   <img src="https://media.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="30"/>
 </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmy3010&label=Profile%20views&color=EB5454&style=flat" alt="sowmy3010" /> </p>
 --------------------------------------------------------------------------------------------------------------------------------------------
 
