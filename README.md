@@ -13,7 +13,7 @@
 
 - 🔭 Diving deeper into programming's endless possibilities..
 
-- <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Plant" width="20px">  I’m currently learning *Integrated Data Science Course*
+- <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Plant" width="20px">  I’m currently learning <b>*Integrated Data Science Course*</b>
 
 - <img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" alt="Mail" width="20px">  How to reach me: sowmy3010@gmail.com
 
@@ -42,7 +42,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="100px">
 </div>
 
-
 <div>
   <h3>💪 Skills:</h3>
   <ul>
@@ -50,7 +49,6 @@
     <li><img src="https://img.icons8.com/nolan/64/programming.png" alt="Programming" width="30px"> Problem-Solving and Programming</li>
   </ul>
 </div>
-
 
 ### 📊 Stats :
 
