@@ -21,6 +21,19 @@
 
 - <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg0ZGRlNzgxYTMwMzIyNDQzZmVlMWY5ZTZmYmRhMmU5MzY1YTFiYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/mBvlxe68T9eP1Umuk7/giphy.gif" alt="Spark" width="20px">Discover my professional journey and experiences on [Linkedin](https://www.linkedin.com/in/sowmyashri-velmurugan-b5b75a258/)
 
+
+
+- <div style="display: flex; justify-content: space-between;"> Get to know my programming skills
+  <a href="https://leetcode.com/sowmy3010/" target="">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png?20190719232508" alt="LeetCode" width="25px">
+  </a>
+
+  <a href="https://www.hackerrank.com/sowmy3010" target="">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="25px">
+  </a>
+</div>
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 📝 Languages :
