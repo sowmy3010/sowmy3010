@@ -13,7 +13,7 @@
 
 - 🔭 Diving deeper into programming's endless possibilities..
 
-- <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Plant" width="20px">  I’m currently learning <b>*Integrated Data Science Course*</b>
+- <img src="https://www.emojiall.com/images/240/telegram/1f331.gif" alt="Plant" width="20px">  I’m currently pursuing <b>*Integrated Data Science Course*</b>
 
 - <img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" alt="Mail" width="20px">  How to reach me: sowmy3010@gmail.com
 
